@@ -33,7 +33,6 @@ for (let i = 0; i < fruits.length; i++){
         console.log(fruits[i])
     }
 }
-
 // 6
 
 const maxNum = [5, 12, 1, 0, 39, 29, 2, 102, 642, 17];
